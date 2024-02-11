@@ -14,4 +14,4 @@ Currently, two official plugins are available:
 
 ## Netlify Link
     
-   + [Demo link]()
+   + [Demo link](https://react-price-card-task-jan.netlify.app/)
